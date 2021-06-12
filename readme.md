@@ -25,13 +25,13 @@ Bots are special [Telegram](https://telegram.org) accounts designed to handle me
 ### Installation
 
 ```bash
-npm install telegraf
+npm install telegraf axios
 ```
 
 or using `yarn`:
 
 ```bash
-yarn add telegraf
+yarn add telegraf axios
 ```
 
 ### Documentation
